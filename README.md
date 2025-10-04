@@ -27,6 +27,8 @@ This repository contains hands-on cybersecurity projects that demonstrate my ski
 ## Certifications
 <div>
 <a href="https://www.coursera.org/account/accomplishments/professional-cert/ENUTE8LVV39R"><img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=Google&logoColor=white" /> </a>
-<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-AMU3BQYMIH.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TryHackMe%20Cybersecurity-101-FF6A00?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Cybersecurity 101" /> </a>
+<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-AMU3BQYMIH.pdf" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/TryHackMe%20Cybersecurity--101-FF6A00?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Cybersecurity 101" />
+</a>
 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-Y20BFR1KFF.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TryHackMe%20Pre--Security-FF6A00?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Pre Security" /> </a>
 </div>
