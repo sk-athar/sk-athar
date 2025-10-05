@@ -1,5 +1,7 @@
 # Hello, I'm Shaikh Athar Ahmed
 <a href="https://linkedin.com/in/shaikh-athar018"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://tryhackme.com/p/sk.athar"><img src="https://img.shields.io/badge/-TryHackMe-COLOR?style=STYLE&logo=tryhackme&logoColor=white"/></a>
+
 
 Welcome to my SOC Analyst Level 1 project portfolio.  
 I am a final-year Computer Science student specializing in **Blue Team & SOC Operations**.  
@@ -7,10 +9,12 @@ This repository contains hands-on cybersecurity projects that demonstrate my ski
 
 
 ## Projects
+| Project                                         | Link         |
+|-----------------------------------------------|----------------------------|
+| Malware Log Analysis          | <a href="https://https://github.com/sk-athar/Malware-Analysis-Project">Project</a>|
+
 
 ## Tools
-
-
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
