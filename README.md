@@ -11,7 +11,7 @@ This repository contains hands-on cybersecurity projects that demonstrate my ski
 ## Projects
 | Project                                         | Link         |
 |-----------------------------------------------|----------------------------|
-| Malware Log Analysis          | <a href="https://https://github.com/sk-athar/Malware-Analysis-Project">Project</a>|
+| Malware Log Analysis          | <a href="https://github.com/sk-athar/Malware-Analysis-Project">Project</a>|
 
 
 ## Tools
