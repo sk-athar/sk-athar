@@ -11,7 +11,7 @@ This repository contains hands-on cybersecurity projects that demonstrate my ski
 ## Projects
 | Project                                         | Link         |
 |-----------------------------------------------|----------------------------|
-| Traffic Log Analysis - Download From Fake Website        | <a href="https://github.com/sk-athar/1.Traffic-Analysis-Project">Project</a>|
+| Traffic Log Analysis - Download From Fake Website        | <a href="https://github.com/sk-athar/1.Traffic-Analysis-Project">Analysis</a>|
 
 
 ## Tools
