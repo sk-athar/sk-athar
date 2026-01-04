@@ -1,6 +1,8 @@
 # Hello, I'm Shaikh Athar Ahmed
 <a href="https://linkedin.com/in/shaikh-athar018"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://tryhackme.com/p/sk.athar"><img src="https://img.shields.io/badge/-TryHackMe-COLOR?style=STYLE&logo=tryhackme&logoColor=white"/></a>
+<a href="https://github.com/sk-athar/sk-athar/blob/main/Shaikh%20Athar%20Ahmed%20Resume.pdf"><img src="https://img.shields.io/badge/-Resume-000000?&style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
+
 
 
 Welcome to my SOC Analyst Level 1 project portfolio.  
