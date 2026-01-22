@@ -1,7 +1,7 @@
 # Hello, I'm Shaikh Athar Ahmed
 <a href="https://linkedin.com/in/shaikh-athar018"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://tryhackme.com/p/sk.athar"><img src="https://img.shields.io/badge/-TryHackMe-COLOR?style=STYLE&logo=tryhackme&logoColor=white"/></a>
-<a href="https://github.com/sk-athar/sk-athar/blob/main/Shaikh%20Athar%20Ahmed%20Resume.pdf"><img src="https://img.shields.io/badge/-Resume-000000?&style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
+<a href="https://github.com/sk-athar/sk-athar/blob/main/Shaikh%20Athar%20Ahmed%20SOC%20Resume.pdf"><img src="https://img.shields.io/badge/-Resume-000000?&style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
 
 
 
@@ -36,4 +36,6 @@ This repository contains hands-on cybersecurity projects that demonstrate my ski
   <img src="https://img.shields.io/badge/TryHackMe%20Cybersecurity--101-FF6A00?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Cybersecurity 101" />
 </a>
 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-Y20BFR1KFF.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TryHackMe%20Pre--Security-FF6A00?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Pre Security" /> </a>
+</div>
+<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BNAOPGFEFH.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TryHackMe%20SOC%20Level%201-FF6A00?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe SOC Level 1" /> </a>
 </div>
