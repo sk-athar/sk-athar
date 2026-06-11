@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white"/>
 </a>
 
-<a href="https://github.com/sk-athar/sk-athar/blob/main/Shaikh_Athar_Ahmed-SOCL1-Resume.pdf">
+<a href="https://github.com/sk-athar/sk-athar/blob/main/Shaikh_Athar_Ahmed_SOCL1_Resume.pdf">
 <img src="https://img.shields.io/badge/-Resume-000000?&style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 </a>
 
